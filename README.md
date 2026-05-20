@@ -4,13 +4,17 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Scientist+📊+%7C+Java+Developer+☕;Python+Developer+🐍+%7C+GSSoC+2026+Contributor+🚀"/>
+<h3>
+📊 Data Scientist | ☕ Java Developer | 🐍 Python Developer | 🚀 GSSoC 2026 Contributor
+</h3>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00FFB3&center=true&vCenter=true&width=650&lines=Turning+Data+into+Intelligence....+⚡"/>
+<h1 style="color:#00FFB3;">
+⚡ Turning Data into Intelligence.... ⚡
+</h1>
 
-<br><br>
+<br>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90px"/>
 
@@ -44,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=F7B93E&center=true&vCenter=true&width=650&lines=Data+Science+📊;Data+Structures+%26+Algorithms+🧠;NumPy+⚡;Problem+Solving+🔥;Open+Source+Contribution+🌍"/>
+<img src="https://skillicons.dev/icons?i=python" width="70"/>
 
 </div>
 
@@ -52,8 +56,6 @@
 
 - 📊 Data Science  
 - 🧠 Data Structures & Algorithms  
-- ⚡ NumPy  
-- 📈 Data Analysis  
 - 🌍 Open Source Contribution  
 
 ---
