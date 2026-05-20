@@ -1,106 +1,149 @@
-<h1 align="center">Hi 👋, I'm Rudra Pratap Sahoo</h1>
+<h1 align="center">🚀 Rudra Pratap Sahoo</h1>
 
 <h3 align="center">
-Data Scientist | Java Developer | Python Developer
+Data Science Learner • Java Developer • Python Developer • DSA Problem Solver
 </h3>
 
-<p align="center">
-<i>Turning Data Into Intelligence</i>
-</p>
+<h4 align="center">
+📊 Turning Data into Intelligence 🚀
+</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Data+Science+Learner;Java+Developer;Python+Developer;DSA+Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Data+Science+Learner;Java+Developer;Python+Developer;DSA+Problem+Solver;Open+Source+Enthusiast;Turning+Data+into+Intelligence+🚀"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 Second Year BTech CSE Student
-- 📊 Currently learning Data Science
-- 💻 Working with Java & Python
-- 🧠 Solving DSA problems on LeetCode
-- ⚡ Interested in software development and problem solving
-- 🚀 Exploring modern technologies and open source
-
----
-
-# 🛠 Tech Stack
-
-## Languages
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
 
-## Data Science
+# 👨‍💻 About Me
 
-<p>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+🎓 Second Year BTech CSE Student  
+📊 Currently learning Data Science  
+💻 Skilled in Java, Python & C  
+🧠 Practicing Data Structures & Algorithms  
+⚡ Passionate about coding and problem solving  
+🌱 Exploring modern technologies and software development  
+🔥 Open Source Enthusiast  
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,git,github,vscode,idea"/>
+</p>
+
+---
+
+# 📚 Data Science
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Science-00C7B7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-FF6F00?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## DBMS
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
----
-
-## Tools & Platforms
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
----
-
-# 📈 Currently Learning
-
-- Data Science
-- DSA with Java
-- Advanced Python
-- Git & GitHub
-- Problem Solving
-
----
-
-# 📊 GitHub Analytics
+# ⚒️ Tools & Platforms
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rudrapratapsahoo&show_icons=true&theme=default&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rudrapratapsahoo&theme=default&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrapratapsahoo&layout=compact&theme=default&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,jupyter"/>
 </p>
 
 ---
 
-# 🧠 LeetCode Profile
+# 🧩 Competitive Programming
+
+- 💡 Solving DSA problems regularly
+- 🧠 Practicing Java-based algorithms
+- 🔥 Active on LeetCode
+- 🚀 Improving problem-solving skills daily
+
+---
+
+# 🚀 Current Focus
+
+- 📊 Data Science
+- 🧠 DSA with Java
+- 🐍 Advanced Python
+- 🔗 Git & GitHub
+- ⚙️ Problem Solving
+
+---
+
+# 🚀 Featured Projects
+
+## 📊 Data Analysis Dashboard
+- Python
+- Pandas
+- Matplotlib
+
+## 🤖 AI Chatbot
+- Python
+- NLP
+
+## 🌐 Portfolio Website
+- HTML
+- CSS
+- JavaScript
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rudrapratapsahoo&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rudrapratapsahoo&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrapratapsahoo&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudrapratapsahoo&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rudrapratapsahoo&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+# 🧠 LeetCode Stats
 
 <p align="center">
 <a href="https://leetcode.com/u/RUDRAPRATAPSAHOO/">
-<img src="https://leetcard.jacoblin.cool/RUDRAPRATAPSAHOO?theme=light&font=Nunito"/>
+<img src="https://leetcard.jacoblin.cool/RUDRAPRATAPSAHOO?theme=dark&font=Nunito&ext=heatmap"/>
 </a>
 </p>
 
@@ -108,16 +151,24 @@ Data Scientist | Java Developer | Python Developer
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://github.com/Rudrapratapsahoo">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Rudrapratapsahoo" target="_blank">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/rudra-pratap-sahoo-aba483291/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/rudra-pratap-sahoo-aba483291/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Rudrapratapsahoo/Rudrapratapsahoo/output/snake.svg" alt="Snake animation"/>
 </p>
 
 ---
@@ -125,11 +176,31 @@ Data Scientist | Java Developer | Python Developer
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rudrapratapsahoo&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Rudrapratapsahoo&label=Profile%20Views&color=00ffff&style=for-the-badge"/>
 </p>
 
 ---
 
+# 💭 Developer Mindset
+
 <p align="center">
-<b>Turning Data Into Intelligence</b>
+
+> ### “Consistency and curiosity are the real superpowers in tech.”
+
+</p>
+
+---
+
+<div align="center">
+
+## ⚡ Code • Learn • Build • Repeat ⚡
+
+### 🚀 Building with Technology & Innovation
+
+</div>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
