@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hey%20There!%20👋%20I'm%20Rudra%20Pratap%20Sahoo&fontAlign=50&fontAlignY=35&fontSize=38&color=0:00C9FF,100:92FE9D&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hey%20There!!%20👋%20I'm%20Rudra%20Pratap%20Sahoo&fontAlign=50&fontAlignY=35&fontSize=38&color=0:00C9FF,100:92FE9D&fontColor=ffffff&animation=fadeIn"/>
 
 <br>
 
-<h3>
+<h1>
 📊 Data Scientist | 🚀 GSSoC 2026 Contributor
-</h3>
+</h1>
 
 <br>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90px"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"/>
 
 </div>
 
