@@ -5,7 +5,7 @@
 <br>
 
 <h3>
-📊 Data Scientist | ☕ Java Developer | 🐍 Python Developer | 🚀 GSSoC 2026 Contributor
+📊 Data Scientist | 🚀 GSSoC 2026 Contributor
 </h3>
 
 <br>
@@ -28,7 +28,7 @@
 
 🎓 B.Tech Student at **KIIT University, Bhubaneswar**  
 
-💻 Passionate about **Java Development, Python & Data Science**  
+💻 Passionate about **Data Science**  
 
 📚 Currently learning **Data Science & DSA**  
 
@@ -175,11 +175,6 @@
 </a>
 
 &nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/RUDRAPRATAPSAHOO/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
 </div>
 
 ---
