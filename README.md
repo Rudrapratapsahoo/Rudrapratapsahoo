@@ -137,17 +137,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrapratapsahoo&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 🧠 LeetCode Progress
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/RUDRAPRATAPSAHOO?theme=dark&font=Poppins&ext=contest"/>
-
-</div>
-
 ---
 
 # 🐍 Contribution Snake Animation
